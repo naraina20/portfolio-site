@@ -105,10 +105,7 @@
     width: 100vw;
   }
 
-  .text p {
-    font-size: 15px;
-  }
-
+  
   .intro {
     width: 100vw;
     align-items: center;
@@ -116,7 +113,7 @@
     height: 50%;
     justify-content: space-around;
   }
-
+  
   .para {
     font-size: 11vw;
   }
@@ -124,11 +121,11 @@
   .nav-bar {
     justify-content: flex-end;
   }
-
+  
   .nav-2 {
     font-size: 2vw;
   }
-
+  
   .intro button {
     width: 50vw;
   }
@@ -144,7 +141,7 @@
   .other-skills {
     display: none;
   }
-
+  
   .img {
     display: none;
   }
@@ -153,16 +150,27 @@
     display: none;
   }
 
+  .other2 {
+    margin-top: 0;
+  }
+  
+  
   .text {
     width: 100%;
+    height: 46vh;
   }
 
   .text h5 {
     display: none;
   }
-
+  
+  .text p {
+    font-size: 15px;
+    top: 30px;
+  }
+  
   .text h6 {
-    top: 19px;
+    top: 3px;
     font-weight: 900;
     font-size: 21px;
   }
