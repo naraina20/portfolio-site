@@ -74,7 +74,7 @@
   font-family: var(--font1);
   font-weight: 900;
   margin-bottom: 20px;
-  font-size: 2rem;
+  font-size: 3vmax;
 }
 
 .intro button {
