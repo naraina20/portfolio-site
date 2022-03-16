@@ -23,7 +23,15 @@
   .about {
     top: 103vh;
   }
+  
+  .work{
+    height: 50vmax;
+  }
+  .work2{
+    height: 45vmax;
+  }
 }
+
 /* nav-2 media-Query start */
 
 @media only screen and (max-width: 768px) {
@@ -91,7 +99,15 @@
   .nav-2 li {
     font-weight: bold;
   }
+
+  .work{
+    height: 70vmax;
+  }
+  .work2{
+    height: 63vmax;
+  }
 }
+
 
 /* nav-2 media-Query end */
 
@@ -289,4 +305,12 @@
   .footer {
     top: 350vh;
   }
+
+  .work{
+    height: 60vmax;
+  }
+  .work2{
+    height: 53vmax;
+  }
 }
+
